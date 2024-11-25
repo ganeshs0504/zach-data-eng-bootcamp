@@ -1,1 +1,1 @@
-# Lecture notes for Zach's Data Engineering Bootcamp
+# Lecture notes and lab follow along for Zach's Data Engineering Bootcamp
